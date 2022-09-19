@@ -4,9 +4,9 @@ Solidity Shared Wallet with Allowance Functionality using OpenZeppelin
 
 ## SC's Description
 
-Allowance currency is sent through fallback function.
-The owner of the contract can either add or reduce allowance for a specific address.
-Only the owner or the address specified by it can withdraw any money.
+- Allowance currency is sent through fallback function.
+- The owner of the contract can either add or reduce allowance for a specific address.
+- Only the owner or the address specified by it can withdraw any money.
 
     
 ## Running the smart contract
